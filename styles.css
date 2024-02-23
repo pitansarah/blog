@@ -1,0 +1,58 @@
+
+body {
+    background-color: #daecff;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace
+}
+
+/*align center*/
+
+#plants {
+    width: 400px;
+    height: 200px;
+}
+
+#profile {
+    width: 100px;
+    float: inline-start;
+    height: 100px;
+    border: solid;
+    border-radius: 50%;
+    margin: 15px;
+    box-shadow: -5px 5px 5px
+}
+
+figcaption {
+    font-size: 12px;
+    text-align: center;
+}
+
+/*what does this css do?*/
+
+.profile {
+    float: inline-start;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+/*align center*/
+h4 {
+    font-style: italic;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 10px;
+}
+
+img {
+    width: 300px;
+    height: 150px;
+}
+
+
