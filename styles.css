@@ -29,6 +29,10 @@ td  {
 
 }
 
+p {
+    text-indent: 10%;
+}
+
 nav a {
     text-decoration: none;
 }
@@ -78,4 +82,18 @@ img {
     height: 150px;
 }
 
+/*remove bullet spacing, list-style-position: inside? */
 
+.container ul {
+    list-style-type: none;
+
+}
+
+/*fix : double border*/
+.container {
+    border: 1px double black;
+    margin: 1em;
+    padding: 1em;
+    text-align: center;
+    
+}
